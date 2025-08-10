@@ -139,7 +139,7 @@ export default function Navbar() {
                 className="mt-2 px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-full font-bold text-center"
                 onClick={() => setIsMobileOpen(false)}
               >
-                Book Now
+                Buy Now
               </button>
             </div>
           </div>
